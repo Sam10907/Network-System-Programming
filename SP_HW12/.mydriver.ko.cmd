@@ -1,0 +1,1 @@
+cmd_/home/sam/SP_HW12/mydriver.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/sam/SP_HW12/mydriver.ko /home/sam/SP_HW12/mydriver.o /home/sam/SP_HW12/mydriver.mod.o;  true

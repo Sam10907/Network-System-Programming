@@ -1,0 +1,5 @@
+part1指令: ./hw3_part1 使用者名稱(sam)
+
+part2指令: ./hw3_part2
+
+part3指令: sudo ./hw3_part3

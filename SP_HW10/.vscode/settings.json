@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "svshm_xfr.h": "c",
+        "mman.h": "c",
+        "shm.h": "c",
+        "fcntl.h": "c",
+        "pthread.h": "c",
+        "stdbool.h": "c"
+    }
+}

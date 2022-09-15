@@ -1,0 +1,3 @@
+44-7是使用44-6的client-server範例程式碼來做修改，以驗證nonblocking open和nonblocking I/O也能正常運作。
+server端: ./fifo_seqnum_server
+client端: ./fifo_seqnum_client_normal

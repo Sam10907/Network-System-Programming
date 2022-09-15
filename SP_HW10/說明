@@ -1,0 +1,13 @@
+指令: ./program [資料數量 M] [傳送速率 R] [consumer數量 N] [buffer size B]
+印出格式:
+    This is message 1
+    This is message 2
+    This is message 3
+                   .
+                   .
+                   .
+    This is message N
+
+    Total messages: X
+    Sum of received messages by all consumers: Y
+    Loss rate: Z
